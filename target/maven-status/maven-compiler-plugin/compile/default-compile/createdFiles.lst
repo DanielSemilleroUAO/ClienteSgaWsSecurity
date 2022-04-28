@@ -1,0 +1,8 @@
+clientews/servicio/ListarPersonas.class
+clientews/servicio/ListarPersonasResponse.class
+clientews/servicio/PersonaServiceWs.class
+clientews/servicio/ObjectFactory.class
+clientews/servicio/PersonaServiceImplService.class
+testclientews/TestPersonaServiceWs.class
+clientews/servicio/package-info.class
+clientews/servicio/Persona.class
